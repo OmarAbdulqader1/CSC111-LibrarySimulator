@@ -24,8 +24,8 @@ public class Member {
  public static int TotalViewBorrowed;
  public static int TotalBorrows;
  public static int TotalReturns;
- 
- //Metods
+
+//Methods
  
 //Constructor 
  public Member(int id, String name, int borrowedCount) {
@@ -114,5 +114,6 @@ public class Member {
  
  
 }
+
 
 
