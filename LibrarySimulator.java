@@ -44,6 +44,7 @@ public class LibrarySimulator {
 					account = Account2;
 				else
 					account = Account3;
+				account.reset();
 				
 				boolean Session_Running = true;
 				
@@ -137,6 +138,7 @@ public class LibrarySimulator {
 		}
 		
 	}
+
 
 
 
