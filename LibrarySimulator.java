@@ -124,7 +124,7 @@ public class LibrarySimulator {
 								
 							}
 						
-				    //exiting the program
+				    //exitng the program
 					} else if (pick == 5) {
 						System.out.println("Goodbye!!");
 						break; //break out of the loop
@@ -137,5 +137,6 @@ public class LibrarySimulator {
 		}
 		
 	}
+
 
 
