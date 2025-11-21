@@ -8,7 +8,7 @@ public class Member {
 	 * 3- Saud AlSayyari 446102327
 	 */
 	
- //instance attributes
+//instance attributes  
  private int id;
  private String name;
  private int borrowedCount;
@@ -25,9 +25,9 @@ public class Member {
  public static int TotalBorrows;
  public static int TotalReturns;
  
- //Methods
+ //Metods
  
- //Constructor
+//Constructor 
  public Member(int id, String name, int borrowedCount) {
 	 this.id=id;
 	 this.name=name;
@@ -114,4 +114,5 @@ public class Member {
  
  
 }
+
 
