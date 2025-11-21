@@ -19,8 +19,8 @@ public class LibrarySimulator {
 		Member Account3 = new Member (333, "Account three", 0);
 		
 		
-		
-		//the library:
+
+		//The library:
 		while(true) {
 			System.out.println("*Welcome to the Library!*");
 			System.out.println();
@@ -137,6 +137,7 @@ public class LibrarySimulator {
 		}
 		
 	}
+
 
 
 
